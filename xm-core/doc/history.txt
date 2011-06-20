@@ -1,5 +1,7 @@
 TODO:
+-Simple Processor
 
 Done:
+-File loading tree
 -Root file loading other files
 -Simple Input Model
